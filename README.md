@@ -25,5 +25,8 @@ You also need to change the `%HOME` paths in `./i3/config` and `./i3status/confi
 - QT5 theme: Adwaita black
 - Icon theme: [Fluent dark](https://github.com/vinceliuice/Fluent-icon-theme)  
 - Terminal emulator: xterm && kitty
+- Display manager: `startx` 
 
-my pacman and apt packages is [here](./packages.md)  
+My pacman and apt packages is [here](./packages.md).   
+
+[TUI](./survive-tui.md) softwares, vi keybindings and tiling WM they rock!

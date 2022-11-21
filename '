@@ -1,0 +1,16 @@
+The **Terminal User Interface**  
+
+# Software
+- Text editor: vim  
+- Music player: cmus  
+- File manager: vifm && ranger  
+- Web browser: w3m
+- Mail client: mutt
+- Image viewer: jp2a  
+- Video recording/editing: ffmpeg  
+- PDF viewer: zathura  
+- Shell: set vi/vim mode
+
+# Addons
+- Firefox: [Tridactyl](https://github.com/tridactyl/tridactyl)  
+- Code: [Vim](https://github.com/VSCodeVim/Vim)  
