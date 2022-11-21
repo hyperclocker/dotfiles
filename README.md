@@ -19,12 +19,11 @@ You also need to change the `%HOME` paths in `./i3/config` and `./i3status/confi
 
 ---
 ## Software that I use
-- WM: i3
-- Bar: i3status
-- Launcher: dmenu
-- Notification: dunst
+- WM: i3wm
 - Compositor: picom
-- Music player: cmus
-- Audio Visualizer: cava
+- GTK2/3 theme: Adwaita black
+- QT5 theme: Adwaita black
+- Icon theme: [Fluent dark](https://github.com/vinceliuice/Fluent-icon-theme)  
+- Terminal emulator: xterm && kitty
 
-[my pacman and apt packages](./packages.md)  
+my pacman and apt packages is [here](./packages.md)  
