@@ -1,0 +1,32 @@
+Xft.dpi:135
+
+xterm*faceName: Monospace
+xterm*faceSize: 11
+xterm*Background: #191919
+xterm*Foreground: light grey
+
+
+! Blacks
+xterm*color0:           #000000
+xterm*color8:           #444444
+! Reds
+xterm*color1:           #EC3427
+xterm*color9:           #FF6358
+! Greens
+xterm*color2:           #30E220
+xterm*color10:          #48FF38
+! Yellows
+xterm*color3:           #E2E22A
+xterm*color11:          #FFFF55
+! Blues
+xterm*color4:           #0D54D8
+xterm*color12:          #2452A6
+! Purples
+xterm*color5:           #BD176E
+xterm*color13:          #FF46A7
+! Cyans
+xterm*color6:           #13D0D0
+xterm*color14:          #55FFFF
+! Whites
+xterm*color7:           #BBBBBB
+xterm*color15:          #F1F1F1
