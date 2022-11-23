@@ -293,5 +293,18 @@
         "key": "ctrl+shift+`",
         "command": "-workbench.action.terminal.new",
         "when": "terminalProcessSupported || terminalWebExtensionContributedProfile"
+    },
+    {
+        "key": "ctrl+r",
+        "command": "-workbench.action.openRecent"
+    },
+    {
+        "key": "ctrl+r",
+        "command": "-workbench.action.reloadWindow",
+        "when": "isDevelopment"
+    },
+    {
+        "key": "ctrl+r",
+        "command": "extension.vim_ctrl+r"
     }
 ]
