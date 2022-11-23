@@ -27,6 +27,6 @@ You also need to change the `%HOME` paths in `./i3/config` and `./i3status/confi
 - Terminal emulator: xterm && kitty
 - Display manager: `startx` 
 
-My pacman and apt packages is [here](./packages.md).   
+My pacman and apt packages list is [here](./packages.md).   
 
 [survive TUI](./survive-tui.md)
