@@ -29,4 +29,4 @@ You also need to change the `%HOME` paths in `./i3/config` and `./i3status/confi
 
 My pacman and apt packages is [here](./packages.md).   
 
-[TUI](./survive-tui.md) softwares, vi keybindings and tiling WM they rock!
+[survive TUI](./survive-tui.md)
