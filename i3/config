@@ -206,7 +206,7 @@ bindsym $mod+r mode "resize"
 bar {
         status_command i3status
 	position top
-	i3bar_command i3bar --transparency
+	i3bar_command i3bar #--transparency
 	tray_output primary
 	tray_padding 2 
 	separator_symbol "/"
@@ -253,7 +253,7 @@ exec --no-startup-id "xautolock -time 10 -locker \"i3lock --color 000000\""
 client.focused #FF6358 #008A90 #fdf6e3 #FF6358
 
 # titlebar size
-for_window [class="^.*"] border pixel 2
+for_window [class="^.*"] border pixel 1
 
 # flameshot 
 bindsym Print       exec flameshot full
@@ -289,5 +289,3 @@ bindsym $mod+CONTROL+c exec "xdotool click 1"
 
 # ibus for arch
 # exec --no-startup-id ibus-daemon --xim -d -r
-
-
