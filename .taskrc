@@ -40,5 +40,6 @@ data.location=/home/hyperclocker/.task
 #include no-color.theme
 
 color.project.list=white on blue
-color.project.backup=white on black
+color.project.backup=bold white on rgb410
 color.project.todo=black on green
+color.project.weekly backup=black on gray12

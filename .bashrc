@@ -118,4 +118,3 @@ fi
 [ -r /home/hyperclocker/.byobu/prompt ] && . /home/hyperclocker/.byobu/prompt   #byobu-prompt#
 
 set -o vi
-exec fish
