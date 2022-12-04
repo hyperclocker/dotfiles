@@ -3,6 +3,8 @@ Some lines need be commented/uncommented in `./i3/config` between two distros as
 
 You also need to change the `%HOME` paths in `./i3/config` and `./i3status/config/`.
 
+`picom.conf` defaults to disable all visual effects.
+
 ---
 ## Screenshots
 ### cmus and cava  

@@ -12,11 +12,14 @@ if status is-interactive
     # Commands to run in interactive sessions can go here
 end
 
-alias clash="/home/hyperclocker/bin/clash"
-alias clash-update="/home/hyperclocker/bin/clash-update"
+# scripts
+alias cls="/home/hyperclocker/bin/cls"
+alias upcls="/home/hyperclocker/bin/upcls"
+alias bkcls="/home/hyperclocker/bin/bkcls"
 alias prime-run="/home/hyperclocker/bin/prime-run"
 
 alias moon="curl 'wttr.in/moon?format=%l:\[%m\]%M'"
+alias wttr="curl 'wttr.in/'"
 
 # git
 alias gs='git status'
@@ -28,8 +31,8 @@ alias upgrade='sudo apt upgrade'
 alias upgradable='apt list --upgradable'
 
 # pacman
-alias syu='sudo pacman -Syu'
-alias syyu='sudo pacman -Syyu'
+#alias syu='sudo pacman -Syu'
+#alias syyu='sudo pacman -Syyu'
 
 alias up='uptime -p'
 alias neo='neofetch'
@@ -83,6 +86,6 @@ end
 # backup file
 # `backup file.txt` copies file as file.txt.bak
 function backup --argument filename
-    cp $filename $filename.bak
+    cp $filename $filename.backup
 end
 

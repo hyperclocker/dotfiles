@@ -270,8 +270,8 @@ focus_follows_mouse no
 # exec --no-startup-id "nvidia-settings --load-config-only"
 
 # resolution
-exec --no-startup-id "xrandr --output eDP-1 --mode 2048x1152"
-# exec --no-startup-id "xrandr --output eDP-1 --mode 1920x1080"
+# exec --no-startup-id "xrandr --output eDP-1 --mode 2048x1152"
+exec --no-startup-id "xrandr --output eDP-1 --mode 1920x1080"
 
 # fix screen tearing
 # for ubuntu server

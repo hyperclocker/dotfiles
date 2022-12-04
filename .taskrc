@@ -43,3 +43,4 @@ color.project.list=white on blue
 color.project.backup=bold white on rgb410
 color.project.todo=black on green
 color.project.weekly backup=black on gray12
+color.project.download=black on rgb132
