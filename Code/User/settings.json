@@ -1,4 +1,28 @@
 {
     "extensions.autoUpdate": false,
-    "window.menuBarVisibility": "toggle"
+    "window.menuBarVisibility": "toggle",
+    "editor.fontSize": 15,
+    "files.autoSave": "onFocusChange",
+    "editor.wordWrap": "on",
+    "workbench.preferredLightColorTheme": "Default Dark+",
+    "workbench.preferredHighContrastColorTheme": "Default Dark+",
+    "workbench.preferredHighContrastLightColorTheme": "Default Dark+",
+    "editor.cursorStyle": "block",
+    "terminal.integrated.cursorBlinking": true,
+    "workbench.colorCustomizations": {
+    //"list.inactiveSelectionBackground": "#191919",
+    "sideBar.background": "#171717",
+    //"sideBar.foreground": "#000000",
+    "editor.background": "#191919",
+    //"editor.foreground": "#000000",
+    "sideBarSectionHeader.background": "#191919",
+    "sideBarSectionHeader.foreground": "#BBBBBB",
+    //"activityBar.border": "#FF6358",
+    "activityBar.background": "#222222",
+    "statusBar.background": "#222222",
+    //"scrollbarSlider.activeBackground": "#222222",
+    //"scrollbarSlider.hoverBackground": "#222222",
+    //"badge.background": "#81CA91"
+}
+
 }
