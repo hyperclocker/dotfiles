@@ -331,5 +331,10 @@
         "key": "ctrl+k ctrl+h",
         "command": "-workbench.action.output.toggleOutput",
         "when": "workbench.panel.output.active"
+    },
+    {
+        "key": "ctrl+k",
+        "command": "workbench.action.focusActiveEditorGroup",
+        "when": "terminalFocus"
     }
 ]

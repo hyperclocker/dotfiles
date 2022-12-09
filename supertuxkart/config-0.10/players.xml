@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<players version="1" >
+    <current player="hyperclocker"/>
+    <player name="hyperclocker" guest="false" use-frequency="41"
+            icon-filename="1.png"
+            unique-id="1" saved-session="false"
+            saved-user="0" saved-token=""
+            last-online-name="" last-was-online="false"
+            remember-password="false"
+            default-kart-color="0.97">
+      <story-mode first-time="false" finished="true" speedrun-finished="false"
+                  story-ms="13399493" speedrun-ms="15076669">
+        <abyss solved="medium" best_while_slower="false"/>
+        <candela_city solved="medium" best_while_slower="false"/>
+        <cocoa_temple solved="medium" best_while_slower="false"/>
+        <cornfield_crossing solved="hard" best_while_slower="false"/>
+        <fortmagma solved="medium" best_while_slower="true"/>
+        <gp1 solved="medium" best_while_slower="false"/>
+        <gp2 solved="medium" best_while_slower="false"/>
+        <gp3 solved="medium" best_while_slower="false"/>
+        <gp4 solved="medium" best_while_slower="false"/>
+        <granparadiso_island solved="medium" best_while_slower="false"/>
+        <green_valley solved="medium" best_while_slower="false"/>
+        <hacienda solved="medium" best_while_slower="false"/>
+        <lighthouse solved="medium" best_while_slower="false"/>
+        <mansion solved="medium" best_while_slower="false"/>
+        <mines solved="medium" best_while_slower="false"/>
+        <minigolf solved="medium" best_while_slower="false"/>
+        <olivermath solved="medium" best_while_slower="false"/>
+        <sandtrack solved="medium" best_while_slower="false"/>
+        <scotland solved="medium" best_while_slower="false"/>
+        <snowmountain solved="medium" best_while_slower="false"/>
+        <snowpeak solved="medium" best_while_slower="false"/>
+        <stk_enterprise solved="medium" best_while_slower="false"/>
+        <unlock_bonus_kart1 solved="best" best_while_slower="false"/>
+        <unlock_bonus_kart2 solved="none" best_while_slower="false"/>
+        <unlock_supertux solved="none" best_while_slower="false"/>
+        <volcano_island solved="medium" best_while_slower="false"/>
+        <xr591 solved="medium" best_while_slower="false"/>
+        <zengarden solved="medium" best_while_slower="false"/>
+      </story-mode>
+      <achievements online="true"> 
+        <achievement id="1" achieved="true"/>
+        <achievement id="2" achieved="true"/>
+        <achievement id="3" achieved="false"/>
+        <achievement id="4" achieved="false"/>
+        <achievement id="5" achieved="true"/>
+        <achievement id="6" achieved="false"/>
+        <achievement id="7" achieved="true"/>
+        <achievement id="8" achieved="true"/>
+        <achievement id="9" achieved="true"/>
+        <achievement id="10" achieved="false"/>
+        <achievement id="11" achieved="false"/>
+        <achievement id="12" achieved="false"/>
+          <data version="4"/>
+          <var counter="42"/>
+          <var counter="29"/>
+          <var counter="13"/>
+          <var counter="0"/>
+          <var counter="2"/>
+          <var counter="8"/>
+          <var counter="1"/>
+          <var counter="1"/>
+          <var counter="2"/>
+          <var counter="1"/>
+          <var counter="129"/>
+          <var counter="64"/>
+          <var counter="2"/>
+          <var counter="1"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="93"/>
+          <var counter="34"/>
+          <var counter="85"/>
+          <var counter="32"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="3"/>
+          <var counter="1"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="0"/>
+          <var counter="584"/>
+          <var counter="0"/>
+          <var counter="27"/>
+          <var counter="36"/>
+          <var counter="0"/>
+          <var counter="3"/>
+          <var counter="8"/>
+          <var counter="0"/>
+          <var counter="4"/>
+          <var counter="50"/>
+          <var counter="0"/>
+          <var counter="5"/>
+          <var counter="116"/>
+          <var counter="0"/>
+          <var counter="28"/>
+          <var counter="1539"/>
+          <var counter="0"/>
+          <var counter="59"/>
+          <var counter="0"/>
+          <var counter="31"/>
+          <track_stats ident="abyss" sta="3" fin="3" won="1" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="black_forest" sta="2" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="1" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="candela_city" sta="5" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="cocoa_temple" sta="4" fin="2" won="0" fin_rev="0" fin_al="1" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="cornfield_crossing" sta="9" fin="6" won="6" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="fortmagma" sta="1" fin="1" won="1" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="gran_paradiso_island" sta="7" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="hacienda" sta="2" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="lighthouse" sta="3" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="mines" sta="2" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="minigolf" sta="4" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="olivermath" sta="3" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="2" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="ravenbridge_mansion" sta="2" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="sandtrack" sta="9" fin="5" won="1" fin_rev="0" fin_al="4" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="scotland" sta="2" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="snowmountain" sta="3" fin="2" won="1" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="snowtuxpeak" sta="4" fin="4" won="2" fin_rev="1" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="stk_enterprise" sta="3" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="volcano_island" sta="2" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="xr591" sta="2" fin="2" won="0" fin_rev="0" fin_al="1" l_laps="1" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="zengarden" sta="13" fin="2" won="2" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_adventure-track" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_ancient-summits" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_aquadromo" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_black-forest" sta="1" fin="1" won="0" fin_rev="1" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_blackhill-mansion" sta="3" fin="1" won="1" fin_rev="1" fin_al="0" l_laps="0" m_laps="1" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_bouncy-plungers" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_bovine-barnyard_1" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_canyon-42" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_coyote-canyon_1" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_cz45-hillside" sta="3" fin="2" won="1" fin_rev="2" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_cz45-skhaiway" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_dale-tunnel" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_demon-ravine" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_down-by-the-river" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_evergreen-forest" sta="1" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_final-gloom" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_gears-lane" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_green-hill_1" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_green-valley" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_imminent-cold-effects" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_lost-chasm" sta="17" fin="3" won="1" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_noinexsu-shore" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_octopus-city" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_paradise-peaks" sta="5" fin="1" won="0" fin_rev="1" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_secret-garden_1" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_shipyard-tower" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_stormy-pier" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_the-farm" sta="4" fin="2" won="1" fin_rev="1" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_toy-block-raceway" sta="1" fin="1" won="0" fin_rev="1" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="addon_untested-place" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+      </achievements>
+    </player>
+</players>
