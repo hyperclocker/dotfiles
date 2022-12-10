@@ -48,7 +48,7 @@
         "when": "accessibilityModeEnabled && terminalA11yTreeFocus && terminalNavigationModeActive && terminalProcessSupported || accessibilityModeEnabled && terminalFocus && terminalNavigationModeActive && terminalProcessSupported"
     },
     {
-        "key": "ctrl+j",
+        "key": "ctrl+l",
         "command": "workbench.action.terminal.focusNext",
         "when": "terminalFocus && terminalHasBeenCreated && !terminalEditorFocus || terminalFocus && terminalProcessSupported && !terminalEditorFocus"
     },
@@ -58,7 +58,7 @@
         "when": "terminalFocus && terminalHasBeenCreated && !terminalEditorFocus || terminalFocus && terminalProcessSupported && !terminalEditorFocus"
     },
     {
-        "key": "ctrl+k",
+        "key": "ctrl+h",
         "command": "workbench.action.terminal.focusPrevious",
         "when": "terminalFocus && terminalHasBeenCreated && !terminalEditorFocus || terminalFocus && terminalProcessSupported && !terminalEditorFocus"
     },

@@ -1,4 +1,8 @@
 {
+    "java.jdt.ls.java.home": "/usr/lib/jvm/java-18-openjdk-amd64",
+    "extensions.autoUpdate": false
+}
+{
     "extensions.autoUpdate": false,
     "window.menuBarVisibility": "toggle",
     "editor.fontSize": 15,
@@ -24,5 +28,5 @@
     //"scrollbarSlider.hoverBackground": "#222222",
     //"badge.background": "#81CA91"
 }
-
 }
+
