@@ -47,13 +47,13 @@ alias bright='brightnessctl list'
 
 
 
-fish_vi_key_bindings
+#fish_vi_key_bindings
 
-function fish_user_key_bindings
+#function fish_user_key_bindings
     # Ctrl-Alt-x
     bind \ce accept-autosuggestion
     bind \cf forward-word
-end
+#end
 
 # no greetings
 set -U fish_greeting 
