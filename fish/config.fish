@@ -45,15 +45,12 @@ alias bright='brightnessctl list'
 ### "vim" as manpager
  set -x MANPAGER '/bin/bash -c "vim -MRn -c \"set buftype=nofile showtabline=0 ft=man ts=8 nomod nolist norelativenumber nonu noma\" -c \"normal L\" -c \"nmap q :qa<CR>\"</dev/tty <(col -b)"'
 
-
-
-#fish_vi_key_bindings
-
-#function fish_user_key_bindings
-    # Ctrl-Alt-x
-    bind \ce accept-autosuggestion
-    bind \cf forward-word
-#end
+function fish_user_key_bindings
+	for mode in insert default visual
+		bind -M $mode \cf forward-word
+		bind -M $mode \ce forward-char
+	end
+end
 
 # no greetings
 set -U fish_greeting 
